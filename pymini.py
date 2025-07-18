@@ -1,4 +1,4 @@
-#!/usr/bin/python
+#!/usr/bin/env python3
 # pymini.py - A python GUI that interfaces with rtstepperemc library.
 #
 # (c) 2014-2015 Copyright Eckler Software

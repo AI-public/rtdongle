@@ -1,4 +1,4 @@
-#!/usr/bin/python
+#!/usr/bin/env python3
 # pyemc.py - A cytypes library interface for rtstepperemc.
 #
 # (c) 2014-2015 Copyright Eckler Software
